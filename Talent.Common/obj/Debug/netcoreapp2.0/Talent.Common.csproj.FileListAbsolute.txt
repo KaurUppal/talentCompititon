@@ -34,3 +34,12 @@ C:\Users\Admin\Desktop\New folder (3)\talent-competition-master\Talent.Common\ob
 C:\Users\Admin\Desktop\New folder (3)\talent-competition-master\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
 C:\Users\Admin\Desktop\New folder (3)\talent-competition-master\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.dll
 C:\Users\Admin\Desktop\New folder (3)\talent-competition-master\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\AmanProjects\Visual_Studio\Industr Connect\MVP Studio\talent-competition\talentCompititon\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.deps.json
+D:\AmanProjects\Visual_Studio\Industr Connect\MVP Studio\talent-competition\talentCompititon\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.dll
+D:\AmanProjects\Visual_Studio\Industr Connect\MVP Studio\talent-competition\talentCompititon\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\AmanProjects\Visual_Studio\Industr Connect\MVP Studio\talent-competition\talentCompititon\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.csprojAssemblyReference.cache
+D:\AmanProjects\Visual_Studio\Industr Connect\MVP Studio\talent-competition\talentCompititon\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
+D:\AmanProjects\Visual_Studio\Industr Connect\MVP Studio\talent-competition\talentCompititon\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+D:\AmanProjects\Visual_Studio\Industr Connect\MVP Studio\talent-competition\talentCompititon\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+D:\AmanProjects\Visual_Studio\Industr Connect\MVP Studio\talent-competition\talentCompititon\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.dll
+D:\AmanProjects\Visual_Studio\Industr Connect\MVP Studio\talent-competition\talentCompititon\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.pdb

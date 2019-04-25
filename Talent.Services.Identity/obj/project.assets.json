@@ -14660,11 +14660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
+      "projectUniqueName": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
       "projectName": "Talent.Services.Identity",
-      "projectPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
+      "projectPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Services.Identity\\obj\\",
+      "outputPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Services.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14683,8 +14683,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Common\\Talent.Common.csproj"
+            "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }

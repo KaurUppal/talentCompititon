@@ -164,7 +164,7 @@ export class CompanyDetailSection extends Component {
     }
 
     openEdit() {
-        //debugger;
+        debugger;
         const details = Object.assign({}, this.props.details);
         console.log("email " + details.email);
         this.setState({
@@ -264,7 +264,7 @@ export class CompanyDetailSection extends Component {
                         <p>Name: {companyName}</p>
                         <p>Email: {email}</p>
                         <p>Phone: {phone}</p>
-                        <p> Location: {location.city}, {location.country}</p>
+                        <p> Location: {location.city ? location.city + "," : ""}{location.country ? location.country:""}</p>
                     </React.Fragment>
                     <button type="button" className="ui right floated teal button" onClick={this.openEdit}>Edit</button>
                 </div>

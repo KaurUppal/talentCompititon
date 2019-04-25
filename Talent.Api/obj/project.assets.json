@@ -14661,11 +14661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Api\\Talent.Api.csproj",
+      "projectUniqueName": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Api\\Talent.Api.csproj",
       "projectName": "Talent.Api",
-      "projectPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Api\\Talent.Api.csproj",
+      "projectPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Api\\Talent.Api.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Api\\obj\\",
+      "outputPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14684,8 +14684,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition1\\talent-competition-master\\Talent.Common\\Talent.Common.csproj"
+            "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "D:\\AmanProjects\\Visual_Studio\\Industr Connect\\MVP Studio\\talent-competition\\talentCompititon\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }
